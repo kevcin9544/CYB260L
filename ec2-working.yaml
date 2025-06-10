@@ -1,3 +1,6 @@
+# Description of what this change includes
+# Revision number
+# Date
 AWSTemplateFormatVersion: "2010-09-09"
 Description: Amazon Elastic Compute Cloud (EC2) Template
 Parameters:
